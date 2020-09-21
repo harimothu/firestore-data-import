@@ -1,0 +1,20 @@
+{
+  "name": "firestore-data-import",
+  "version": "1.0.0",
+  "description": "Uploads json data to firestore (not for production)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firestore",
+    "import",
+    "data",
+    "dev"
+  ],
+  "author": "Hari Mothukuri",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^9.2.0"
+  }
+}
